@@ -9,6 +9,7 @@ public class AccountingTasks {
         }
         System.out.println("Сумма трат за месяц составила " + totalExpenses + " рублей.");
 
+
         // Задача 2
         System.out.println("\nЗадача 2");
         int[] weeklyExpenses = {12000, 23000, 17000, 25000, 19000};
