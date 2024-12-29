@@ -30,6 +30,7 @@ public class AccountingTasks {
         double averageExpense = (double) sum / weeklyExpenses.length;
         System.out.println("Средняя сумма трат за месяц составила " + averageExpense + " рублей.");
 
+
         // Задача 4
         System.out.println("\nЗадача 4");
         char[] reverseFullName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
